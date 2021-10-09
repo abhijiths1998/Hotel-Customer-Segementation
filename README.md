@@ -6,7 +6,7 @@ This real-world customer dataset with 31 variables describes 83,590 instances (c
 ### Content
 The data comprehends three full years of customer personal, behavioral, demographic, and geographical information.
 
-* Dataset details : https://www.sciencedirect.com/science/article/pii/S2352340920314645?via%3Dihub
+* Feature details : https://www.sciencedirect.com/science/article/pii/S2352340920314645?via%3Dihub
 * Dataset Reference : https://www.kaggle.com/nantonio/a-hotels-customers-dataset
 
 ### Acknowledgements
